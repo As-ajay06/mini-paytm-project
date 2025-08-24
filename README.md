@@ -67,3 +67,24 @@ export default tseslint.config([
   },
 ])
 ```
+
+
+## About the Project 
+
+How to run the project locally
+
+  run the following command in your terminal
+
+  'git clone add link of ths repositories'
+
+  'cd /paytmFrontend'
+
+  'npm install'
+
+  'npm run dev'
+
+Please notice your backend should also be up
+
+clone the backend repo also.
+
+there you will find the instruction to run the backend
